@@ -32,14 +32,14 @@
     - Either Left(failure) and Right(Success)
 
 ### Presentation Layer
-    1. MVVM (Model View ViewModel) Pattern
+    1. MVVM(Model View ViewModel) Pattern
         - Model
         - View
         - ViewModel
         - UseCase Rule to connect to outside world
         - Creating Data classes similar to Data class in Kotlin
         
-    2. Presentation Layer (State Management)
+    2. Presentation Layer(State Management)
         - Stream Controller and RX Dart
         
     3. Presentation Layer (State Renderer)
@@ -48,7 +48,7 @@
         - Popup error state
         - Empty State(no data)
                    
-    4. Presentation Layer (UI)
+    4. Presentation Layer(UI)
         - Splash Screen
         - Onboarding Screen
         - Login Screen
@@ -61,17 +61,17 @@
             -> Settings Screen
             -> Details Screen)
 
-    5. Presentation Layer (Localization)
+    5. Presentation Layer(Localization)
         - English
         - French
         - RTL and LTR in widget
         - Adding English Settings and French Settings
         
-    6. Presentation Layer (Resources)
+    6. Presentation Layer(Resources)
         - Using AdobeXD
             - How to extract (Images, Icons, Colors, fonts and dimensions)
             
-        - Asset Manager (Images)
+        - Asset Manager(Images)
             - How to add correct icons/images for android
             - How to add correct icons/images for IOS (@1X, @2X, @3X)
             
@@ -109,7 +109,7 @@
             - Input Decoration theme
 
 ### Different Features
-    - Using Image picker (Gallery/ Camera)
+    - Using Image picker(Gallery/ Camera)
     - Using Country picker
     - Device info for current device(model/version/identifier)
     - Using JSON animations
