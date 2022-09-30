@@ -14,7 +14,7 @@
     - Extensions
     - Shared Functions
      
-### Data Layer (Network & Cache)
+### Data Layer(Network & Cache)
     - Data Sources(Remote, Local)
     - API Interface
     - DIO factory(Http implementer/ logger interceptor)
