@@ -55,11 +55,11 @@
         - Register Screen  
         - Forgot Password
         - Main Screen (
-            - Home Screen
-            - Search Screen
-            - Notification Screen
-            - Settings Screen
-            - Details Screen)
+            -> Home Screen
+            -> Search Screen
+            -> Notification Screen
+            -> Settings Screen
+            -> Details Screen)
 
     5. Presentation Layer (Localization)
         - English
