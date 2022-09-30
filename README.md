@@ -32,7 +32,7 @@
     - Either Left(failure) and Right(Success)
 
 ### Presentation Layer
-    **1. MVVM (Model View ViewModel) Pattern**
+    1. **MVVM (Model View ViewModel) Pattern**
         - Model
         - View
         - ViewModel
