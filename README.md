@@ -108,6 +108,36 @@
             - Text theme
             - Input Decoration theme
 
+### Different Features
+    - Using Image picker (Gallery/ Camera)
+    - Using Country picker
+    - Device info for current device(model/version/identifier)
+    - Using JSON animations
+    - Using SVG images
+    - Application icon in android and IOS
+    - Password validation for certain patterns
+    - Email validation
+
+
+### Third Parties
+    - Flutter_svg
+    - Retrofit
+    - retrofit_generator
+    - Dio
+    - json_serializable
+    - Analyzer
+    - Dartz
+    - data_connection_checker
+    - shared_preferences
+    - device_info
+    - get_it
+    - Lottie
+    - image_picker
+    - carousel_slider
+    - easy_localization
+    - flutter_phoenix
+    - Rxdart
+    - freezed
 
 
 
